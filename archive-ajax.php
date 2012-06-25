@@ -8,6 +8,7 @@ Author URI: http://mecus.es/herramientas/plugins/
 Version: 0.1
 Stable tag: 0.1
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Contributors: bi0xid, _DorsVenabili, mecus
 */
 
 function mes($mes)
